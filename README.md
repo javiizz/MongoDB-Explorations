@@ -1,2 +1,2 @@
 # MongoDB-Explorations
-Learning contents related with MongoDB
+This repository contains a collection of resources and materials to help you learn MongoDB, a powerful NoSQL database management system.
